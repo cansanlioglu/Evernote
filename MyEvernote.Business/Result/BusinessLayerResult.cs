@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace MyEvernote.Business.Result
 {
-    public class BusinessLayerResult<T> where T:class  // Class Generic yapılda oluşturuldu
+    public class BusinessLayerResult<T> where T:class  
     {
         public List<ErrorMessagesObj> Errors { get; set; }
         public T Result { get; set; }
