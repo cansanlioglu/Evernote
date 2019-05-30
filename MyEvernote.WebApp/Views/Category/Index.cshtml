@@ -1,0 +1,72 @@
+﻿@using MyEvernote.WebApp  
+@model IEnumerable<MyEvernote.Entities.Category>
+
+@{
+    ViewBag.Title = "Kategoriler";
+}
+
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <h2>Kategoriler</h2>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <p>
+            @Boostrap.LinkButton("/Category/Create", "primary", "", "", "plus", "Create")  
+        </p>
+        <table class="table table-hover">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Title)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Description)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreatedOn)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ModifiedOn)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ModifiedUsername)
+                </th>
+                <th></th>
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Title)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Description)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreatedOn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ModifiedOn)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ModifiedUsername)
+                    </td>
+                    <td class="">
+                        @Boostrap.LinkButton("/Category/Edit/"+ item.Id, "warning", "btn-xs", "Edit", "edit", string.Empty)
+
+                        @Boostrap.LinkButton("/Category/Details/" + item.Id, "info", "btn-xs", "Details", "search", string.Empty)
+
+                        @Boostrap.LinkButton("/Category/Delete/" + item.Id, "danger", "btn-xs", "Delete", "trash", string.Empty)
+                    </td>
+                </tr>
+            }
+
+        </table>
+
+    </div>
+</div>
+

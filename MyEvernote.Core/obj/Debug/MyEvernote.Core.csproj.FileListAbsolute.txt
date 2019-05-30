@@ -1,0 +1,6 @@
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\bin\Debug\MyEvernote.Core.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\bin\Debug\MyEvernote.Core.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Core\obj\Debug\MyEvernote.Core.pdb

@@ -1,0 +1,12 @@
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\bin\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\bin\Debug\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Common\obj\Debug\MyEvernote.Common.pdb

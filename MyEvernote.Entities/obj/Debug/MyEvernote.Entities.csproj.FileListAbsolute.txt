@@ -1,0 +1,34 @@
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll.config
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojResolveAssemblyReference.cache
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Entities\obj\Debug\MyEvernote.Entities.pdb

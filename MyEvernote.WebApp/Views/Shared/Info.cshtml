@@ -1,0 +1,42 @@
+﻿@using MyEvernote.WebApp.ViewModels
+@model InfoViewModel
+
+@{
+    ViewBag.Title = Model.Title;
+}
+
+<link href="~/Content/Login-register.css" rel="stylesheet" />
+
+<body onload="setTimeout('yonlendir()',3000)">
+
+    <section class="login-info">
+        <div class="container">
+            <div class="row main">
+                <div class="form-header">
+                    <h1 class="text-center "> @Model.Header </h1>
+                </div>
+                <div class="main-content">
+                    <div class="text-info">
+                        <h2><span class="glyphicon glyphicon-info-sign"></span>&emsp;@Model.Title&hellip;</h2>
+                        <hr />
+                        <p class="text-justify">
+                            @foreach (string msg in Model.Items)
+                            {
+                                @msg<br />
+                            }
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+
+
+<script>
+    function yonlendir() {
+        window.location = "/Home/Index";
+    }
+</script>
+
+

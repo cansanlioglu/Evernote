@@ -1,0 +1,154 @@
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\ApplicationInsights.config
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojResolveAssemblyReference.cache
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+c:\users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\ApplicationInsights.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojAssemblyReference.cache
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CopyComplete
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\ApplicationInsights.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\ApplicationInsights.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\csc.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\vbc.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.WebApp.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Business.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.DataAccessLayer.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\FakeData.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\obj\Debug\MyEvernote.WebApp.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Core.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\MyEvernote.Core.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\Microsoft.Web.Helpers.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\WebMatrix.Data.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\WebMatrix.WebData.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\WebMatrix.Data.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.WebApp\bin\WebMatrix.WebData.xml

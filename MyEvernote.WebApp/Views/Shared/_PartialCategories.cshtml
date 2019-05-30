@@ -1,0 +1,24 @@
+﻿@using MyEvernote.WebApp.Models
+@using MyEvernote.Entities
+
+@{
+    List<Category> list = CacheHelper.GetCategoriesFromCache();
+}
+
+
+<p class="lead">Kategoriler</p>
+<div class="list-group">
+
+    <a href="@Url.Action("Index","Home")" class="list-group-item"><Span class="glyphicon glyphicon-arrow-right"></Span>Tümü</a>
+  
+
+    @foreach (Category cat in list)
+    {
+        // 1. Yöntem
+        <a href="/Home/ByCategory/@cat.Id" title="@cat.Description" class="list-group-item"><Span class="glyphicon glyphicon-arrow-right"></Span> @cat.Title </a>
+
+        // 2. Yöntem
+        @*<a href="@Url.Action("Index","Home")" title="@cat.Description" class="list-group-item"><Span class="glyphicon glyphicon-arrow-right"></Span> @cat.Title </a>*@
+    }
+
+</div>

@@ -1,0 +1,63 @@
+﻿@using MyEvernote.Entities.ValueObjects
+@model RegisterViewModel
+
+@{
+    ViewBag.Title = "MyEvernote - Kayıt Sayfası";
+}
+
+<link href="~/Content/Login-register.css" rel="stylesheet" />
+<link href="~/Content/validation-summary.css" rel="stylesheet" />
+
+@using (Html.BeginForm())
+{
+    <section class="login-info">
+        <div class="container">
+            <div class="row main">
+                <div class="form-header">
+                    <h1 class="text-center ">Kayıt formu </h1>
+                </div>
+                <div class="main-content">
+
+                    @Html.ValidationSummary(false)
+
+                    <div class="input-group ">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Name, new { @class = "form-control", placeholder = "İsim" })
+                    </div>
+
+                    <div class="input-group ">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Surname, new { @class = "form-control", placeholder = "Soyisim" })
+                    </div>
+
+                    <div class="input-group ">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-user" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Username, new { @class = "form-control", placeholder = " Kullanıcı Adı" })
+                    </div>
+
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Password, new { @class = "form-control", placeholder = " Şifre", type = "password" })
+                    </div>
+
+                    <div class="input-group">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-lock" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.RePassword, new { @class = "form-control", placeholder = " Şifre Tekrar", type = "password" })
+                    </div>
+
+                    <div class="input-group ">
+                        <span class="input-group-addon"><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span></span>
+                        @Html.TextBoxFor(model => model.Email, new { @class = "form-control", placeholder = " E-mail Adres" })
+                    </div>
+
+                    <div class="form-group ">
+                        <button href="#" type="submit" class="btn btn-danger btn-lg btn-block login-button">Kaydet</button>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </section>
+}
+

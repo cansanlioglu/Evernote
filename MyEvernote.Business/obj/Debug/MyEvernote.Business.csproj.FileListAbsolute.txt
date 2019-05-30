@@ -1,0 +1,82 @@
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll.config
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csprojResolveAssemblyReference.cache
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.pdb
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.dll
+C:\Users\yunus.unsal\documents\visual studio 2015\Projects\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll.config
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.xml
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.pdb
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csprojAssemblyReference.cache
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CoreCompileInputs.cache
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CopyComplete
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.dll
+C:\Users\csanl\OneDrive\Masaüstü\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Common.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Common.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.DataAccessLayer.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Entities.dll.config
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\EntityFramework.SqlServer.xml
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\FakeData.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csprojAssemblyReference.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CoreCompileInputs.cache
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.csproj.CopyComplete
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\obj\Debug\MyEvernote.Business.pdb
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Core.dll
+D:\Yazılımc Uzmanlığı Eğitimi\Can.S\VisualStudio2017 Eğitim\MVC\Ders Proje Çalışmaları\MyEvernoteSolution\MyEvernote.Business\bin\Debug\MyEvernote.Core.pdb
